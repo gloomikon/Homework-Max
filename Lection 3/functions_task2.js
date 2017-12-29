@@ -1,4 +1,3 @@
-arr=[];
 function sum()
 {
 	let X=0;
